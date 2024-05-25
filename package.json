@@ -29,7 +29,7 @@
 		"execa": "^3.2.0",
 		"inquirer": "^7.3.3",
 		"ncp": "^2.0.0",
-		"replace-in-files": "^2.0.3",
+		"replace-in-files": "^3.0.0",
 		"validate-npm-package-name": "^3.0.0"
 	}
 }
